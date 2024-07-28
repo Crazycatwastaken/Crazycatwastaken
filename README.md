@@ -4,7 +4,7 @@
 <h3 align="center"><b>• My Skills •</b></h3>
 
 <div align="center">
-    <a href="https://html.com/html5/" target="_blank">
+<!--     <a href="https://html.com/html5/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" height="40px">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
@@ -36,7 +36,7 @@
     </a>
         <a href="https://tailwindcss.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40px">
-    </a>
+    </a> -->
 </div>
 <div align="center">
 <!--   <h3>
